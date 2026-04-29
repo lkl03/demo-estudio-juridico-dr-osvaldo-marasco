@@ -1,2 +1,7 @@
-# demo-estudio-juridico-dr-osvaldo-marasco
-Demo web para ESTUDIO JURIDICO Dr. Osvaldo Marasco — diseñada por eterlab.
+# ESTUDIO JURIDICO Dr. Osvaldo Marasco
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
